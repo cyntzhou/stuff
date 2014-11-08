@@ -5,8 +5,8 @@ Fall Semester
 Period 6
 Main Projects
 -----
-__Blog__  
-Cynthia Zhou, Adam DeHovitz, Hubert Puszklewicz, Rebecca Yustegolob  
+###Blog### 
+__Team Members:__ Cynthia Zhou, Adam DeHovitz, Hubert Puszklewicz, Rebecca Yustegolob  
 A website to make and display posts and comments using sqlite3.  
 https://github.com/cyntzhou/Blog.git  
 __Query__  
