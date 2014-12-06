@@ -27,3 +27,7 @@ Cynthia Zhou, Oliver Zhang
 * api  
 Cynthia Zhou, Michael Huang, Lawrence Lim  
 https://github.com/cyntzhou/api.git  
+* todo  
+6/todo/cynthia_zhou  
+* invisble cow  
+6/invisible-cow/cynthia_oliver  
