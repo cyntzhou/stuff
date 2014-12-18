@@ -13,6 +13,14 @@ https://github.com/cyntzhou/Blog.git
 __Team Members:__ Cynthia Zhou, Michael Huang, Corrin Offenholley, Thomas Hlebowicz  
 __Description:__ Question & answer website using google's search engine. Ask a question with a "who" or "when", and our website will provide the top two answers.  
 https://github.com/cyntzhou/Query.git  
+####Meal Planner  
+__Team Members:__ Cynthia Zhou, Michael Huang, Lawrence Lim  
+__Description:__ A site where you can save recipes and calculate daily calorie intake. Uses Yummly API  
+https://github.com/cyntzhou/api.git  
+####Stuy Assist (Final Project for Fall Semester)  
+__Team Members:__ Cynthia Zhou, Michael Huang, Oliver Zhang  
+__Description:__ A database to help students survive Stuy.  
+https://github.com/cyntzhou/final.git  
 Mini Projects
 -----
 * login  
@@ -24,9 +32,6 @@ Cynthia Zhou, Genji Noguchi
 * intro-proj 1  
 Cynthia Zhou, Oliver Zhang  
 6/intro-proj1/cynthia_oliver  
-* api  
-Cynthia Zhou, Michael Huang, Lawrence Lim  
-https://github.com/cyntzhou/api.git  
 * todo  
 Cynthia Zhou  
 6/todo/cynthia_zhou  
