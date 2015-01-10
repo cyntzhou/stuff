@@ -5,6 +5,10 @@ Fall Semester
 Period 6
 Main Projects
 -----
+####Stuy Assist (Final Project for Fall Semester)  
+__Team Members:__ Cynthia Zhou, Michael Huang, Oliver Zhang  
+__Description:__ A database to help students survive Stuy.  
+https://github.com/cyntzhou/final.git  
 ####Blog  
 __Team Members:__ Cynthia Zhou, Adam DeHovitz, Hubert Puszklewicz, Rebecca Yustegolob  
 __Description:__ A website to make and display posts and comments using sqlite3.  
@@ -17,10 +21,6 @@ https://github.com/cyntzhou/Query.git
 __Team Members:__ Cynthia Zhou, Michael Huang, Lawrence Lim  
 __Description:__ A site where you can save recipes and calculate daily calorie intake. Uses Yummly API  
 https://github.com/cyntzhou/api.git  
-####Stuy Assist (Final Project for Fall Semester)  
-__Team Members:__ Cynthia Zhou, Michael Huang, Oliver Zhang  
-__Description:__ A database to help students survive Stuy.  
-https://github.com/cyntzhou/final.git  
 Mini Projects
 -----
 * login  
